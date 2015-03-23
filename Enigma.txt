@@ -4,4 +4,23 @@ Qu'est-ce?
 
 Enigma est une machine de cryptage electromécanique, créée par Arthur Scherbius en 1923. Elle avait été initialement conçue pour le ministère des affaires étrangère Allemand. Mais elle se vend très mal. De nombreuse modification y sont alors apportées afin de réduire son coup. La marine allemande s'y intéresse alors en 1926 et y apporte des modifications. Suite au bons résultats de cette dernière, la totalité des forces armées allemande décide de l'utilisé. 
 
+Comment était-elle utilisée? 
+
+De manière simple, lorsque l'on voulait crypter ou décrypter un message, Il fallait au préalable rêglé la machine de façon minutieuse. On y reviendra après. Une fois cela fait, l'utilisateur tapait comme sur le clavier le caractère souhaité et une lampe s'allumait pour indiquer le caractère traduit.
+
+Plus précisement, comment fonctionnait-elle?
+
+Tout d'abord, il faut savoir était composée, en plus d'un clavier et de lampes, de plusieurs rotors (crf image) sur lesquel était installés différents circuits électriques propres à chacun des rotors. Les différents rotors, connecté entre eux, formait donc un véritable réseau électrique entre le clavier et les lampes/ampoule. Lorsque l'utilisateur appuyait sur une touche, un signal électrique était envoyé et suivait le circuit formé par les rotors. 
+
+Comment le message était-il crypté? 
+
+Le moyen de cryptage utilisé était un moyen par substitution. Explication + schéma
+cfr ce que j'ai expliqué à Sylvain. 
+
+La machine, en plus d'un système electronique, possédait un système mécanique. Ce dernier faisait tourner les différents rotors en fonction de ce qui était tapé. Les circuits electriques était alors modifiés ainsi que la lettre obtenue à la fin. Il y avait sur le modèle initial 4 rotors différents, mais certaines branches de l'armée, comme la marine on rajouté des rotors supplémentaire aux machines qu'elle utilisait. Grâce à cela, la clé de cryptage changeait tout le temps, ce qui permettait que des répétitions de lettre ne donne pas le même résultats. (image wikipedia) 
+Quelques chiffres:
+il y avait 17576 possibilité de cryptage pour un mot de trois lettres. 
+
+
+  
 
